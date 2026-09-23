@@ -1,0 +1,64 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-image: url("fottoo/tudo\ sobre.webp");
+    background-color: #0c09df;
+    color: rgb(8, 7, 7);
+    
+}
+.background-image {
+    box-shadow: 0 4px 8px rgba(244, 242, 242, 0.1);
+}
+.background-image1 {
+    box-shadow: 0 4px 8px rgb(19, 18, 18);
+    background-color: #ffffff;
+
+}
+
+header {
+    color: #050202;
+    background-size: cover;
+    padding: 20px;
+    text-align: center;
+}
+footer {
+    
+    color: rgb(13, 12, 12);
+    text-align: center;
+    padding: 10px;
+    bottom: 0;
+    width: 100%;
+}
+
+button {
+    background-color: #c10fe5;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 4px;
+    box-shadow: 0 4px 8px rgba(179, 12, 12, 0.2);
+    transition: background-color 0.3s ease;
+}
+.interactive-button {
+    background-color: #039595;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 16px;
+    border-radius: 4px;
+    box-shadow: 0 4px 8px rgba(185, 11, 11, 0.2);
+    transition: background-color 0.3s ease; 
+    margin: 0px auto;
+    display: block;  
+}
+.interactive-button:hover {
+    background-color: #0971c6;
+    
+}
+
+
+
